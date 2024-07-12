@@ -1,0 +1,27 @@
+*{
+padding:0;
+margin:0;
+box-sizing:border-box;
+}
+body{
+		background-image: linear-gradient(180deg, #FFFFFF 0%, #6284FF 50%, #FF0000 100%);
+}
+button[type="submit"] {
+	 padding: 15px;
+	 border-radius: 10px;
+	 border: none;
+	 background-color:white;
+	 color: black;
+	 cursor: pointer;
+	 width: 100%;
+	 font-size: 16px;
+ }
+label {
+	 display: block;
+	 margin-bottom: 5px;
+	 color:black;
+	 font-weight: bold;
+}
+form{
+	width:30%;
+}
